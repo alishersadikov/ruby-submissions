@@ -4,7 +4,7 @@
 repo:
 
 ### Alisher Sadikov
-repo:
+repo:https://github.com/alishersadikov/module_3_assessment
 
 ### Anna Dolan
 repo:
@@ -28,7 +28,7 @@ repo: https://github.com/dijital2016/module_3_assessment
 repo:
 
 ### Joey Stansfield
-repo: https://github.com/JStans12/module_3_assessment
+repo:
 
 ### Jon Kimble
 repo:
